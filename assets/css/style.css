@@ -1,0 +1,27 @@
+* {
+    font-size: 20px;
+}
+
+main {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto 35%;
+    padding: 10px;
+    box-shadow: 2px 2px 6px grey;
+}
+
+.fieldset {
+    border-radius: 10px;
+    margin: auto 15%;
+    padding: 2px;
+}
+
+.bouton-connecter {
+    height: 40px;
+    box-shadow: 1px 1px 1px black;
+}
+
+.fieldset-2 {
+    width: 90%;
+    border-radius: 10px;
+}
